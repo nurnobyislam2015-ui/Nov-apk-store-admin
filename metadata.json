@@ -1,0 +1,10 @@
+{
+  "name": "Nova Premium APK Store",
+  "short_name": "NovaStore",
+  "description": "High-speed, verified premium APK repository with AI-driven discovery tools. Managed by Md Nur Noby Islam.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
